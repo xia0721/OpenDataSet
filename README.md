@@ -1,7 +1,14 @@
 # OpenDataSet
 
 The dataset is used in the paper named Modeling Interpersonal Relations and Patterns Using
-Public Transit Smart Card Data. It contains 2,319 bus riders in Beijing in Aug. 2015. In case of data privacy, we have to reorder the ID cards of those selected passengers. But this anonymity will not affect the replicability of any methods, including ours. 
+Public Transit Smart Card Data. 
+
+It contains 2,319 bus riders in Beijing in Aug. 2015. 
+
+In case of data privacy, we have to reorder the ID cards of those selected passengers. 
+
+But this anonymity will not affect the replicability of any methods, including ours. 
+
 The attributes listed in this table are: 
 'cardID': the renumbered card Id of every passenger; 
 
